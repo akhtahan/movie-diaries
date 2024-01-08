@@ -1,0 +1,483 @@
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/appsettings.Development.json
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/appsettings.json
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/API
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/API.deps.json
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/API.runtimeconfig.json
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/API.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/API.pdb
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/Humanizer.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/API.AssemblyInfo.cs
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/API.csproj.CopyComplete
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/API.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/refint/API.dll
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/API.pdb
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/API.genruntimeconfig.cache
+/Users/iqramanzoor/Desktop/EnterpriseSoftware/FilmChronicles/API/obj/Debug/net7.0/ref/API.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/appsettings.Development.json
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/appsettings.json
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/API
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/API.deps.json
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/API.runtimeconfig.json
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/API.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/API.pdb
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/Humanizer.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/API.AssemblyInfo.cs
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/API.csproj.CopyComplete
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/API.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/refint/API.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/API.pdb
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/API.genruntimeconfig.cache
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/Project/FilmChronicles/API/obj/Debug/net7.0/ref/API.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/appsettings.Development.json
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/appsettings.json
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/API
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/API.deps.json
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/API.runtimeconfig.json
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/API.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/API.pdb
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/Humanizer.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/API.AssemblyInfo.cs
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/API.csproj.CopyComplete
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/API.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/refint/API.dll
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/API.pdb
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/API.genruntimeconfig.cache
+/Users/anchalsharma/Documents/Fall2023/Enterprise Systems/FilmChronicles/API/obj/Debug/net7.0/ref/API.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/appsettings.Development.json
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/appsettings.json
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/API
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/API.deps.json
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/API.runtimeconfig.json
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/API.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/API.pdb
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/Humanizer.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/API.AssemblyInfo.cs
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/API.csproj.CopyComplete
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/API.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/refint/API.dll
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/API.pdb
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/API.genruntimeconfig.cache
+/Users/ariannafoo/Documents/COURSES/PROG 30000/Group project/FilmChronicles/API/obj/Debug/net7.0/ref/API.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/appsettings.Development.json
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/appsettings.json
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/API
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/API.deps.json
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/API.runtimeconfig.json
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/API.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/API.pdb
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/Humanizer.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/API.AssemblyInfo.cs
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/API.csproj.CopyComplete
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/API.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/refint/API.dll
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/API.pdb
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/API.genruntimeconfig.cache
+/Users/anchalsharma/Documents/Fall2023/FilmChronicles/API/obj/Debug/net7.0/ref/API.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/appsettings.Development.json
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/appsettings.json
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/API
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/API.deps.json
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/API.runtimeconfig.json
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/API.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/API.pdb
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/Humanizer.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/API.AssemblyInfo.cs
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/API.csproj.CopyComplete
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/API.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/refint/API.dll
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/API.pdb
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/API.genruntimeconfig.cache
+/Users/anchalsharma/Documents/Fall2023/Haniyas/FilmChronicles/API/obj/Debug/net7.0/ref/API.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/appsettings.Development.json
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/appsettings.json
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/API
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/API.deps.json
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/API.runtimeconfig.json
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/API.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/API.pdb
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/Humanizer.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/API.AssemblyInfo.cs
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/API.csproj.CopyComplete
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/API.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/refint/API.dll
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/API.pdb
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/API.genruntimeconfig.cache
+/Users/iqramanzoor/Desktop/Final Enterprise Projects/FilmChronicles/API/obj/Debug/net7.0/ref/API.dll
